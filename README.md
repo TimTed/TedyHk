@@ -1,5 +1,5 @@
 # TedyHk
-$ Fast cloning account
+# 🇳🇬Fast cloning account🇳🇬
 
 $ pkg update update
 
