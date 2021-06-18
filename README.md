@@ -1,5 +1,5 @@
 # TedyHk
-# 🇳🇬Fast cloning account🇳🇬
+#🇳🇬Fast cloning account🇳🇬
 
 $ pkg update update
 
@@ -27,7 +27,7 @@ $ git clone https://github.com/TimTed/TedyHk
 
 $ cd TedyHk
 
-$ python2 Tedy.py
+$ python2 TedyHk.py
 
 
 # Don't steal my script👎
